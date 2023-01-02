@@ -17,7 +17,7 @@ Termux :
 ````
  pkg install -y git python nano
  
- git clone https://github.com/M-ZIHAD/Termux-Theme
+ git clone https://github.com/MR-ZIHAD/Termux-Theme
  
  cd Termux-Theme
  
