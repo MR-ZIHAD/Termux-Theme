@@ -17,13 +17,13 @@ Termux :
 ````
  pkg install -y git python nano
  
+ rm -rf Termux-Theme
+
  git clone https://github.com/MR-ZIHAD/Termux-Theme
  
  cd Termux-Theme
  
- chmod +x install.sh
- 
- ./install.sh
+ bash install.sh
  
 ````
 
